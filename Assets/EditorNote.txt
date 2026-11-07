@@ -1,0 +1,1 @@
+Open Assets/Scenes/Main.unity and press Play. The CodeEscapeController has the game script attached. Build this scene for WebGL and Android. Optional: replace cube fallbacks with prefabs in Resources/Prefabs named Player, Token, Exit, Hazard.
